@@ -29,7 +29,7 @@
 
 **[» See heroku deploy instructions](https://amdaniwasa.com/#install)**
 
-**[» See other deploy methods](https://amdaniwasa.com/#install)**
+**[» See other deploy methods](Ali-King)**
 
 ## 🐝 Queen Amdi Team - A.N.Tech *[ Since 2016 ]*
 
